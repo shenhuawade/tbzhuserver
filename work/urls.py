@@ -20,6 +20,8 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('add/', views.add, name = 'add'),
     path(r'home/',views.home, name = 'home'),
-    path('add/<int:a>/<int:b>',views.add2, name='add2')
+    path('add/<int:a>/<int:b>',views.add2, name ='add2'),
+    # 主页商品列表获取
+    path('getshoplist/',views.getHaoQuan_list_items, name = 'getshoplist'),
 
 ]

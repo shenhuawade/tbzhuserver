@@ -2,6 +2,7 @@ from django.db import models
 # 数据库操作命令大全
 
 # shell命令行开启（进入shell环境）
+# python manage.py runserver
 # python manage.py shell
 # 提示nameXXX is not defined，是没有声明，加入申明
 # from shop.models import Person
