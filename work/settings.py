@@ -26,8 +26,8 @@ SECRET_KEY = 'fp5$-jgkka^o32djlyhi3ue0&ium*h!kmaxvelg==k+uo*mm3@'
 DEBUG = False
 
 
-ALLOWED_HOSTS = ['*']
-# ALLOWED_HOSTS = ['*.besttome.com','www.ziqiangxuetang.com']
+# ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['*','www.tbzhu.com','*.com']
 
 # Application definition
 
