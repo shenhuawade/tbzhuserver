@@ -1,0 +1,2 @@
+# tbzhuserver
+pycharm软件开发的django架构，用作app的服务器后台，处理移动客户但提交的数据json请求server
